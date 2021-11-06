@@ -1,7 +1,7 @@
 Heya, I'm Feistywuushu, mostly contained is a few ideas that I thought were cool - gave them some thought and start coding them.
 
 I've worked with python for nearly 2 years (on-off). Gotten to the point where I'm comfortable with the programming process as a whole and thus I've studied examples from C++,C, 
-javascript. 
+javascript and work on studying the contexts for each language.
 
 Currently I'm working on understanding the lower-level intricacies of programming: compilers, computer architecture, TCP/IP suite (OSI-model, contents of a ipv4 packet header); 
 some of these flow quite naturally with learning langauges such as C++ - compilation, allocation of memory and different between stack/heap - and others have come through solving
