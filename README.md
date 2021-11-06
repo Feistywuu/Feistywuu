@@ -7,9 +7,7 @@ Currently I'm working on understanding the lower-level intricacies of programmin
 some of these flow quite naturally with learning langauges such as C++ - compilation, allocation of memory and different between stack/heap - and others have come through solving
 problems on projects.
 
-I do love the fact you can nonchalantly think of a problem, then just start musing the vague requirements of how to implement a solution... with a some effort, research and determination you just solve each of the smaller sub-problems until voila!
+I do love the fact you can nonchalantly think of a problem, then just start musing the vague requirements of how to implement a solution... with some effort, research and determination, you just solve each of the smaller sub-problems until voila!
 
-Working on a Screenscraper Autosell bot GUI, I used: multiprocessing, computer vision; working on a server/client model for UDP data transfer I flirted with using a Man-in-the-Middle
-for spoofing IP's to test the threading part of my code (which also required knowledge of C to read/use the winpcap library, til I stubbornly accepted the use of a higher-level 
-library (scapy) abstracting lots of the practical things; aswell as learning the format of packets; their headers;the datagram frames they are encapsulated in; and the OSI model 
-to provide a basis to understand networkin; so I like to understand and explore the lower-level basis things are implemented from.
+Working on a Screenscraper Autosell bot GUI, I used: multiprocessing, computer vision; working on a server/client model for UDP data transfer I flirted with using a Man-in-the-Middlefor spoofing IP's to test the threading part of my code (which also required knowledge of C to read/use the winpcap library, til I stubbornly accepted the use of a higher-level library (scapy) abstracting lots of the practical things; aswell as learning the format of packets; their headers;the datagram frames they are encapsulated in; and the OSI model to provide a basis to understand networkin; so I like to understand and explore the lower-level basis things are implemented from.
+
