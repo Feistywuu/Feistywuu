@@ -1,6 +1,6 @@
 Heya, I'm Feistywuushu, mostly contained is a few ideas that I thought were cool; gave them some thought and started coding them.
 
-I've been programming for 2 years~ (on-off), most experience with python. Gotten to the point where I'm comfortable with the programming process as a whole and I've used some C# in unity and learned C++ so I can study how python libraries abtracted away lower level things in their implementation.
+I've been programming for 2 years~ (on-off), most experience with python. Gotten to the point where I'm comfortable with the programming process as a whole and I've used some C# in unity and learned C++ so I can study how python libraries abstractaway lower level things in their implementation.
 
 Currently I'm working on understanding the lower-level intricacies of programming: compilers, computer architecture, TCP/IP suite (OSI-model, contents of a ipv4 packet header); 
 some of these flow quite naturally with learning langauges such as C++ - compilation, allocation of memory and different between stack/heap - and others have come through solving
